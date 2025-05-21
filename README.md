@@ -50,7 +50,7 @@ A simple console-based Student Management System built with C# in Visual Studio 
 
 ## Screenshots
 
-![Student Management System Screenshot](https://raw.githubusercontent.com/barmansagarika/Student-Management/main/screenshots/page.png)
+<img src="./screenshots/page.png" alt="Student Management System Screenshot" width="500"/>
 
 ## Contact
 
